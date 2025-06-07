@@ -2,7 +2,7 @@
 ---
 
 # **XenArcAI – Pioneering AI for a Brighter Future**  
-Welcome to the official **GitHub page** of **XenArcAI**—where **innovation meets impact** in the world of **AI and machine learning**.
+>Welcome to the official **GitHub page** of **XenArcAI**—where **innovation meets impact** in the world of **AI and machine learning**.
 
 **Who We Are**  
 At **XenArcAI**, we are committed to pushing the boundaries of **AI research and development**, creating **groundbreaking solutions** that empower humanity and drive progress.  
